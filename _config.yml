@@ -57,8 +57,8 @@ address:
 
 # Credits content
 credits: 'Akun Terkait </br>
-<a href="http://sif.uin-suska.ac.id/">Sistem Informasi</a></br>.
-<a href="http://uin-suska.ac.id//">UIN Suska Riau</a></br>.'
+<a href="http://sif.uin-suska.ac.id/">Sistem Informasi</a></br>
+<a href="http://uin-suska.ac.id//">UIN Suska Riau</a></br>'
 
 # Build settings
 markdown: kramdown
